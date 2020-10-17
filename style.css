@@ -19,77 +19,11 @@ button:focus {
     transform: translate(-50%, -50%);
 }
 
-#btnf {
-    background-color: transparent;
-    color: blue;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 87.5%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-#btne {
-    background-color: transparent;
-    color: yellow;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-#btnd {
-    background-color: transparent;
-    color: red;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 62.5%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-#btnc {
-    background-color: transparent;
-    color: orange;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 37.5%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-#btnb {
-    background-color: transparent;
-    color: purple;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 25%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-#btna {
-    background-color: transparent;
-    color: green;
-    margin: 0;
-    border-radius: 0px;
-    border-width: 0px;
-    position: absolute;
-    top: 12.5%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);
+.hexcode{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  padding: 10px;
 }
 
 @keyframes rainbow-text {
