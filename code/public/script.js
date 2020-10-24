@@ -1,5 +1,5 @@
 function play() {
-    new Audio("media/button.wav").play();
+    new Audio("../public/media/button.wav").play();
 }
 
 const hex = () => {
@@ -19,3 +19,5 @@ function setRandomColor() {
     $('#rancolor').css("background-color", hexcode);
     console.log(hexcode);
 };
+
+// match complimentary colors, hex code rearrangement

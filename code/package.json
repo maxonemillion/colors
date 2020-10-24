@@ -1,0 +1,23 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "colors",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxonemillion/colors.git"
+  },
+  "author": "Maximilian Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxonemillion/colors/issues"
+  },
+  "homepage": "https://github.com/maxonemillion/colors#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
