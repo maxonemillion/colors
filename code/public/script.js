@@ -1,5 +1,5 @@
 function play() {
-    new Audio("media/button.wav").play();
+    new Audio("../public/media/button.wav").play();
 }
 
 const hex = () => {
