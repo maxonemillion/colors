@@ -19,3 +19,5 @@ function setRandomColor() {
     $('#rancolor').css("background-color", hexcode);
     console.log(hexcode);
 };
+
+// match complimentary colors, hex code rearrangement
