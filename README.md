@@ -1,7 +1,7 @@
 # RANDOM COLOR GENERATOR
 
 ### PURPOSE:
-[Generate](https://findyourcolor.herokuapp.com/) endless random colors!
+[Generate](https://findyourcolor.herokuapp.com/) endless random colors! When the button on the page is clicked, a random color is generated and the color’s hex code is returned to the user for future use.
 
 ### TECHNOLOGIES:
 * HTML
