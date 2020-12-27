@@ -8,9 +8,10 @@
 
 
 ### RUN:
-[Here](https://findyourcolor.herokuapp.com/) is the link to the deployed app.  [Here](https://github.com/maxonemillion/colors "Link to github repository") is the github repository for this project.
+[Here](https://findyourcolor.herokuapp.com/) is the link to the deployed app.  
 
 ### SCREENSHOT:
+<img width="682" alt="Screen Shot 2020-12-26 at 11 51 17 AM" src="https://user-images.githubusercontent.com/67847591/103179665-25da3c00-4843-11eb-83f2-ede6c42444d7.png">
 
 ### CONTACT:
 * max.daniel@utah.edu
