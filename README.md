@@ -1,11 +1,13 @@
 # RANDOM COLOR GENERATOR
-[Generate](https://findyourcolor.herokuapp.com/) endless random colors!
 
 ### PURPOSE:
-
+[Generate](https://findyourcolor.herokuapp.com/) endless random colors!
 
 ### TECHNOLOGIES:
-
+* HTML
+* CSS
+* Javascript
+* Node.js
 
 ### RUN:
 [Here](https://findyourcolor.herokuapp.com/) is the link to the deployed app.  
